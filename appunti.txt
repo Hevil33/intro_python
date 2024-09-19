@@ -1,5 +1,4 @@
 da trattare:
 
 - i/o files
-- sistema di import
-- librerie base: numpy, sunpy, astropy (qualcosa)
+- librerie base: sunpy, astropy (qualcosa)
