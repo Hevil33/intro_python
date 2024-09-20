@@ -1,6 +1,6 @@
 # Download intro to python
 
-To download, from the above button code -> download zip -> select the folder.
+To download, from the above button code -> download zip -> select the folder, or click [here](https://github.com/Hevil33/intro_python/archive/refs/heads/master.zip).
 
 # Contents
 
