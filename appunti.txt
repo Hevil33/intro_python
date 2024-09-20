@@ -1,4 +1,0 @@
-da trattare:
-
-- i/o files
-- librerie base: sunpy, astropy (qualcosa)
