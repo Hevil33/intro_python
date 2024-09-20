@@ -4,9 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-# define a class named telescope
+# ------------------------------
+# Define a class named telescope
+# ------------------------------
 class telescope:
-    # initialization
+    # initialization function
     def __init__(self, resolution):
         self.resolution = resolution  # ATTRIBUTE
 
